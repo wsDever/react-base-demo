@@ -9,3 +9,7 @@
 
 ## 使用
 clone项目，安装依赖，npm run dev
+
+## 更新
+webpack 升级为4.5
+服务使用webpack-serve
